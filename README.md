@@ -1,4 +1,6 @@
-# moinitoring-prometheus
+# Prometheus
+
+- Updated by: AnhDH 03/10/2024
 
 Config prometheus.yml demo
 ```
